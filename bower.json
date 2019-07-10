@@ -1,0 +1,26 @@
+{
+  "name": "next-active-menu",
+  "description": "Active menu items for pathToRegexp based router",
+  "main": "dist/next-active-menu.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-active-menu",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
