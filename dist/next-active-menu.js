@@ -2,7 +2,7 @@
  * name: next-active-menu
  * url: https://github.com/afeiship/next-active-menu
  * version: 1.0.0
- * date: 2019-07-11T03:38:23.631Z
+ * date: 2019-07-11T03:38:50.249Z
  * license: MIT
  */
 
