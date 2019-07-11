@@ -7,9 +7,10 @@ npm install -S afeiship/next-active-menu --registry=https://registry.npm.taobao.
 ```
 
 ## apis
-| api | params | description   |
-|-----|--------|---------------|
-| get | -      | desc balabala |
+| api    | params              | description       |
+| ------ | ------------------- | ----------------- |
+| match  | currentPath(String) | Get mathed pathes |
+| active | routePath(Array)    | Active items      |
 
 ## usage
 ```js

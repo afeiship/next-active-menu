@@ -33,7 +33,10 @@
     "yargs": "^4.7.1"
   },
   "dependencies": {
+    "next-deep-clone": "github:afeiship/next-deep-clone",
     "next-js-core2": "github:afeiship/next-js-core2",
-    "next-traverse": "github:afeiship/next-traverse"
+    "next-traverse": "github:afeiship/next-traverse",
+    "next-tree": "github:afeiship/next-tree",
+    "path-to-regexp": "^3.0.0"
   }
 }

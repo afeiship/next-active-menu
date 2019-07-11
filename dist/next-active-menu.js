@@ -1,3 +1,11 @@
+/*!
+ * name: next-active-menu
+ * url: https://github.com/afeiship/next-active-menu
+ * version: 1.0.0
+ * date: 2019-07-11T03:38:23.631Z
+ * license: MIT
+ */
+
 (function() {
   var global = global || this || window || Function('return this')();
   var nx = global.nx || require('next-js-core2');
@@ -65,3 +73,5 @@
     module.exports = NxActiveMenu;
   }
 })();
+
+//# sourceMappingURL=next-active-menu.js.map
